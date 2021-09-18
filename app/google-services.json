@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750984865986",
+    "project_id": "abdemofirebase",
+    "storage_bucket": "abdemofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750984865986:android:5c10350ae5bae8e478b35b",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750984865986-0npqq04afbrsf4h5ubnorgjuguts84a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedemo",
+            "certificate_hash": "eb9c0d2deccf5e8892c481652cc8f4f0f2339cce"
+          }
+        },
+        {
+          "client_id": "750984865986-vdsrc1qg4r4sg17i3bsi5auk4v6n1g7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdgywNC93VP9X-C_ezOWcASyckHp1_cBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750984865986-vdsrc1qg4r4sg17i3bsi5auk4v6n1g7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
